@@ -26,7 +26,7 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,git,github,vscode" alt="Java, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java, JavaScript" />
 </p>
 
 
