@@ -26,10 +26,9 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,git,github,vscode" alt="Java, JavaScript, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,js,git,github,vscode" alt="Java, JavaScript" />
 </p>
 
-> Add or remove icons as you learn more tools.
 
 ## 📊 GitHub Stats
 
