@@ -38,5 +38,5 @@
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile! Let's learn and grow together. 💚</i>
+  <i>Thanks for visiting my profile! Let's learn and grow together. </i>
 </div>
