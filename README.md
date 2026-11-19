@@ -29,27 +29,6 @@
   <img src="https://skillicons.dev/icons?i=java,js" alt="Java, JavaScript" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meormore&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" alt="Jamel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meormore&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meormore&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</div>
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meormore/meormore/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
-</div>
-
----
-
 ## 🌐 Find Me
 
 - **GitHub:** [@meormore](https://github.com/meormore)
